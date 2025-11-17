@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hoic's_Github&fontSize=70)
 
-### Hi there 👋, my name is hoicryu
+### Hi there 👋, my name is hoikryu
 #### I am Front-end Developer
 
 I like learning new things!
