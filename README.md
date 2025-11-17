@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hoic's_Github&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HoiK's_Github&fontSize=70)
 
 ### Hi there 👋, my name is hoikryu
 #### I am Front-end Developer
